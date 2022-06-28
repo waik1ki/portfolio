@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Waikiki Portfolio</title>
+        <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/</link>
+        <description>Blog example for Mediumish theme with VuePress</description>
+        <lastBuildDate>Tue, 28 Jun 2022 09:07:26 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[올그라운드 웹 사이트]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2021/05/29/allground-website/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2021/05/29/allground-website/</guid>
+            <pubDate>Fri, 28 May 2021 15:00:00 GMT</pubDate>
+            <description><![CDATA[반응형 웹사이트, 뉴스 기사]]></description>
+            <enclosure url="https://img.shields.io/badge/vue.js-4FC08D?style=flat&amp;logo=vue.js&amp;logoColor=white">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[WKKCLOUD 웹 사이트]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2021/08/29/wkkcloud-website/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2021/08/29/wkkcloud-website/</guid>
+            <pubDate>Sat, 28 Aug 2021 15:00:00 GMT</pubDate>
+            <description><![CDATA[파일 공유]]></description>
+            <enclosure url="https://img.shields.io/badge/vue.js-4FC08D?style=flat&amp;logo=vue.js&amp;logoColor=white">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[올데이풋볼 웹 사이트]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/06/17/alldayfootball-website/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/06/17/alldayfootball-website/</guid>
+            <pubDate>Thu, 16 Jun 2022 15:00:00 GMT</pubDate>
+            <description><![CDATA[반응형 웹사이트, 구독 서비스, 뉴스 기사]]></description>
+            <enclosure url="https://img.shields.io/badge/vue.js-4FC08D?style=flat&amp;logo=vue.js&amp;logoColor=white">
+            </enclosure>
+        </item>
+    </channel>
+</rss>
